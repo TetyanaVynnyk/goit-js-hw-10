@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.card-header{
+  display: flex;
+
+}
+
+.card-flags-img{
+  height: 50px;
+  margin-right: 30px;
+  align-self: center;
+}
+
+.card-title{
+  font: 14px;
+}
+
+.card-subtitle{
+  font-size: 12px;
+}
